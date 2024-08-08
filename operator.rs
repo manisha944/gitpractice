@@ -1,3 +1,5 @@
+//manisha world hello
+//everyone
 /*use std::ops;
 fn multiply<T:std::ops::Mul<Output = T>>(a:T,b:T)->T{
     a*b
